@@ -1,6 +1,12 @@
 # Ships and Positions
 
-docker-compose up -d --build to build the project using docker-compose which will bring up the PostgreSQL and django services.
+**Setup**
+
+Issue the following command
+
+> docker-compose up -d --build
+
+to build the project using docker-compose. This will bring up the PostgreSQL and Django services.
 
 Once these are up and running, its time for us to run the migrations. The following command can be issued to run the initial set of migrations:
 
