@@ -21,7 +21,11 @@ This will output a green success message if all goes to plan.
 Some quicklinks:
 
 [Display the map](http://127.0.0.1:8000/map) Does not load correctly due to mapbox API upgrades.
+
 [Display Ships](http://127.0.0.1:8000/api/ships/)
+
 [Display Positions for the Maersk](http://127.0.0.1:8000/api/positions/9632179/)
+
 [Display Positions for the Austrailian](http://127.0.0.1:8000/api/positions/9247455/)
+
 [Display Positions for the MSC](http://127.0.0.1:8000/api/positions/9595321/)
